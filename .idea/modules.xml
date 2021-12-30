@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Variables/Booleans.iml" filepath="$PROJECT_DIR$/Variables/Booleans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Booleanss/Booleanss.iml" filepath="$PROJECT_DIR$/Booleanss/Booleanss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codinglessions2022.iml" filepath="$PROJECT_DIR$/Codinglessions2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/ForLoop/ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ifstatement/Ifstatement.iml" filepath="$PROJECT_DIR$/Ifstatement/Ifstatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lommeregner/Lommeregner.iml" filepath="$PROJECT_DIR$/Lommeregner/Lommeregner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scope/Scope.iml" filepath="$PROJECT_DIR$/Scope/Scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/WhileLoop/WhileLoop.iml" />
+    </modules>
+  </component>
+</project>
